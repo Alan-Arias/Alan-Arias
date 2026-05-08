@@ -57,7 +57,6 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alan-Arias&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
   </a>
 </p>
-![Top language](https://stats.pphat.top/languages?username=Alan-Arias)
 <br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
