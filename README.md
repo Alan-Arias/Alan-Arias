@@ -1,9 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Alan%20Joel%20Arias%20Moron&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Ingeniero%20Inform%C3%A1tico&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Alan-Arias">
-    <img src="https://komarev.com/ghpvc/?username=Alan-Arias&label=Profile%20views&color=00FFFF&style=flat-square" alt="Alan-Arias's profile views" />
-  </a>
-</p>
 <img src="https://i.pinimg.com/736x/80/c0/6e/80c06e19e84d6a13205238a953d56423.jpg" alt="Banner" width="100%" />
 
 ## 📌 About Me
