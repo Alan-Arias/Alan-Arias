@@ -1,70 +1,144 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Alan%20Joel%20Arias%20Moron&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Ingeniero%20Inform%C3%A1tico&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
-<img src="https://i.pinimg.com/736x/80/c0/6e/80c06e19e84d6a13205238a953d56423.jpg" alt="Banner" width="100%" />
+<!-- ========================= HEADER ========================= -->
 
-## 📌 About Me
-- Aprendiendo programación web
-- Enfoque en la seguridad web
+<div align="center">
 
-## 🧠 My Focus Areas
-- Desarrollo Web
-- Seguridad
-- Base de Datos
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d1117,50:a371f7,100:00ffff&text=Alan%20Joel%20Arias%20Moron&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20Inform%C3%A1tico%20|%20Web%20Developer&descSize=22&descColor=ffffff&descAlignY=58" width="100%"/>
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Alan-Arias">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alan-Arias&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="Alan-Arias's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Alan-Arias&theme=dracula&hide_border=true&cache_seconds=86400" alt="Alan-Arias's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Alan-Arias&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Alan Joel Arias Moron's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Alan-Arias&theme=dracula&radius=10" alt="Alan-Arias's Activity Graph" />
-</p>
-## 🛠️ Languages & Tools
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
-</p>
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
-</p>
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="40" />
-</p>
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
-</p>
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
-</p>
-<p align="center">
-  <a href="https://github.com/Alan-Arias">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alan-Arias&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-<br/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A371F7&center=true&vCenter=true&width=700&lines=Desarrollo+Web+Full+Stack;Laravel+%7C+Vue.js+%7C+PHP;Backend+Developer;Apasionado+por+la+Seguridad+Web" alt="Typing SVG" />
+
+<br><br>
+
+<a href="https://komarev.com/ghpvc/?username=Alan-Arias">
+    <img src="https://komarev.com/ghpvc/?username=Alan-Arias&label=PROFILE+VIEWS&color=a371f7&style=for-the-badge" />
+</a>
+
+<a href="https://github.com/Alan-Arias?tab=followers">
+    <img src="https://img.shields.io/github/followers/Alan-Arias?label=Followers&style=for-the-badge&color=00ffff" />
+</a>
+
+<a href="https://github.com/Alan-Arias">
+    <img src="https://img.shields.io/github/stars/Alan-Arias?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=a371f7" />
+</a>
+
+</div>
+
+---
+
+# 💫 About Me
+
+<img align="right" alt="Coding" width="320" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+
+🎓 Recién egresado de Ingeniería Informática  
+💻 Enfocado en Desarrollo Web Full Stack  
+🔐 Interesado en Seguridad Web  
+🚀 Aprendiendo nuevas tecnologías constantemente  
+🛠️ Desarrollo aplicaciones usando Laravel, Vue.js y PostgreSQL  
+
+<br><br>
+
+---
+
+# 🧠 Focus Areas
+
+<div align="center">
+
+| Desarrollo Web | Backend | Bases de Datos | Seguridad |
+|:---:|:---:|:---:|:---:|
+| Laravel | PHP | PostgreSQL | Web Security |
+| Vue.js | Java | MySQL | Authentication |
+| Tailwind CSS | APIs REST | SQL | Best Practices |
+
+</div>
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=java,php,js" />
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=vue,html,css,tailwind,bootstrap" />
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=laravel,nodejs" />
+
+### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,vscode,postman,linux" />
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alan-Arias&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Arias&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+<div align="center">
+
+<img width="90%" src="https://streak-stats.demolab.com?user=Alan-Arias&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alan-Arias&theme=tokyo-night&hide_border=true&radius=16"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Alan-Arias&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+# 🐍 Contributions
+
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
-<div align="center">
-  <img src="none" alt="Bottom Line" width="100%" />
+
 </div>
 
+---
 
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Alan-Arias">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:a371f7&height=120&section=footer"/>
+
+</div>
