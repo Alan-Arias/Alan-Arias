@@ -166,15 +166,10 @@ Experiencia trabajando con bases de datos relacionales y consultas SQL.
 Herramientas utilizadas para desarrollo, testing, control de versiones y entornos Linux.
 
 </div>
----
 
 # 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alan-Arias&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Arias&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
 
