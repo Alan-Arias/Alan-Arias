@@ -19,7 +19,7 @@ Interesado en la Seguridad Web y las mejores prácticas de desarrollo.
 Contacto: **alanarias20@outlook.com**
 <!--Intro end-->
 </p>
-## Tecnologías conocidas👨🏻‍💻
+<h2>Tecnologías conocidas👨🏻‍💻</h2>
 
 ### 🌐 Desarrollo Web & Mobile
 | Icono | Tecnología | Icono | Tecnología | Icono | Tecnología |
@@ -47,7 +47,6 @@ Contacto: **alanarias20@outlook.com**
 | <img src="https://skillicons.dev/icons?i=git" width="22"/> | **Git** | <img src="https://skillicons.dev/icons?i=github" width="22"/> | **GitHub** | <img src="https://skillicons.dev/icons?i=docker" width="22"/> | **Docker** |
 | <img src="https://skillicons.dev/icons?i=postman" width="22"/> | **Postman** | <img src="https://skillicons.dev/icons?i=vscode" width="22"/> | **VS Code** | <img src="https://skillicons.dev/icons?i=eclipse" width="22"/> | **Eclipse** |
 | <img src="https://skillicons.dev/icons?i=ai" width="22"/> | **Illustrator** | <img src="https://skillicons.dev/icons?i=ps" width="22"/> | **Photoshop** | | |
-
 <!-------------------------->
 <div id="proyectos">
 <h2>Algunos proyectos👨🏻‍💻</h2>
