@@ -7,19 +7,16 @@
 
 <br>
 
-<h2>Sobre mi 😃</h2>
+<h2>Sobre mi</h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
-
-💻 Recién egresado enfocado en el Desarrollo Web Full Stack.
-
-🚀 Apasionado por la construcción de aplicaciones escalables y el aprendizaje constante de nuevas tecnologías.
-
-🔐 Interesado en la Seguridad Web y las mejores prácticas de desarrollo.
-
-📫 Contacto: **tu-correo@gmail.com**
+INGENIERO EN INFORMÁTICA
+  
+Recién egresado enfocado en el Desarrollo Web Full Stack.
+Apasionado por la construcción de aplicaciones escalables y el aprendizaje constante de nuevas tecnologías.
+Interesado en la Seguridad Web y las mejores prácticas de desarrollo.
+Contacto: **alanarias20@outlook.com**
 <!--Intro end-->
 </p>
 ## Tecnologías conocidas👨🏻‍💻
