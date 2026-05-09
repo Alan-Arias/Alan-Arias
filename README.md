@@ -2,12 +2,11 @@
   <img src="https://lh3.googleusercontent.com/pw/AP1GczO9HYmDinczgM7bl-7lz0LLvGkvXLYFE1xt1kyKFcQ1f4mWRijbVWZc62W1KLvis4VrLja9mU5MzugzoUYNWHKc9UcUFerQJiUC8J-OXynbTCTp9DdaSehzvVXT9aRLqhmLwyR21s_DY_jG8xwBXpG6TA=w1100-h301-s-no?authuser=0" alt="Banner">
 </div>
 
-<h1 align="center">👋 Alan Joel Arias Morón</h1>
-<h3 align="center">Ingeniero Informático • Desarrollador Web Full-Stack • Seguridad Web • Database</h3>
+<h1 align="center">Alan Joel Arias Morón</h1>
+<h3 align="center">Ingeniero Informático • Desarrollador Web Full-Stack • Seguridad Web • Base de Datos</h3>
 
 <br>
 
-<br>
 
 ### 🐧 Distribuciones que uso
 
@@ -35,7 +34,7 @@
 <div style="background: linear-gradient(135deg, #1e2937, #0f172a); padding: 35px; border-radius: 24px; border: 2px solid #10b981; margin: 30px 0;">
   <p align="center" style="font-size: 1.18rem; line-height: 1.8;">
     Ingeniero Informático apasionado por el desarrollo web moderno y la seguridad informática.<br>
-    Especializado en crear aplicaciones robustas, seguras y escalables.
+    Especializado en crear Aplicaciones Web, seguras y escalables.
   </p>
 </div>
 
