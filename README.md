@@ -44,11 +44,39 @@
 
 <div align="center">
 
-| Desarrollo Web | Backend | Bases de Datos | Seguridad |
-|:---:|:---:|:---:|:---:|
-| Laravel | PHP | PostgreSQL | Web Security |
-| Vue.js | Java | MySQL | Authentication |
-| Tailwind CSS | APIs REST | SQL | Best Practices |
+<table>
+<tr>
+<td align="center" width="220">
+
+<img src="https://skillicons.dev/icons?i=laravel" width="60"/>
+
+### 🌐 Desarrollo Web
+
+Construcción de aplicaciones web modernas usando Laravel, Vue.js y tecnologías frontend actuales.
+
+</td>
+
+<td align="center" width="220">
+
+<img src="https://skillicons.dev/icons?i=postgresql" width="60"/>
+
+### 🗄️ Bases de Datos
+
+Diseño y gestión de bases de datos relacionales con PostgreSQL y MySQL.
+
+</td>
+
+<td align="center" width="220">
+
+<img src="https://skillicons.dev/icons?i=linux" width="60"/>
+
+### 🔐 Seguridad Web
+
+Buenas prácticas de autenticación, validación y protección en aplicaciones web.
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -58,20 +86,167 @@
 
 <div align="center">
 
-### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=java,php,js" />
+## 💻 Programming Languages
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=vue,html,css,tailwind,bootstrap" />
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=java" width="55"/><br>
+<b>Java</b><br>
+Aplicaciones y lógica backend
+</td>
 
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=laravel,nodejs" />
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=php" width="55"/><br>
+<b>PHP</b><br>
+Desarrollo backend web
+</td>
 
-### 🗄️ Database
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br>
+<b>JavaScript</b><br>
+Interactividad frontend
+</td>
+</tr>
+</table>
 
-### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,vscode,postman,linux" />
+---
+
+## 🎨 Frontend Development
+
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=vue" width="55"/><br>
+<b>Vue.js</b><br>
+Interfaces dinámicas
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br>
+<b>HTML5</b><br>
+Estructura web
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br>
+<b>CSS3</b><br>
+Diseño responsivo
+</td>
+</tr>
+
+<tr>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>
+<b>Tailwind CSS</b><br>
+Diseño moderno
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="55"/><br>
+<b>Bootstrap</b><br>
+Componentes UI
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=vite" width="55"/><br>
+<b>Vite</b><br>
+Frontend tooling
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Backend Development
+
+<table>
+<tr>
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=laravel" width="55"/><br>
+<b>Laravel</b><br>
+Framework PHP MVC
+</td>
+
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>
+<b>Node.js</b><br>
+Servicios backend
+</td>
+
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=apache" width="55"/><br>
+<b>Apache</b><br>
+Servidor web
+</td>
+</tr>
+</table>
+
+---
+
+## 🗄️ Database Management
+
+<table>
+<tr>
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+<b>MySQL</b><br>
+Gestión relacional
+</td>
+
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=postgresql" width="55"/><br>
+<b>PostgreSQL</b><br>
+Bases de datos robustas
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tools & Environment
+
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br>
+<b>Git</b><br>
+Control de versiones
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>
+<b>VS Code</b><br>
+Editor principal
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=postman" width="55"/><br>
+<b>Postman</b><br>
+Testing APIs
+</td>
+</tr>
+
+<tr>
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=linux" width="55"/><br>
+<b>Linux</b><br>
+Entorno de desarrollo
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br>
+<b>GitHub</b><br>
+Repositorios y colaboración
+</td>
+
+<td align="center" width="150">
+<img src="https://skillicons.dev/icons?i=docker" width="55"/><br>
+<b>Docker</b><br>
+Contenedores y despliegue
+</td>
+</tr>
+</table>
 
 </div>
 
