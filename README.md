@@ -21,7 +21,32 @@
   </p>
 </div>
 
+### 🛠️ Tecnologías
 
+#### **Frontend**
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+
+#### **Backend**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square)
+
+#### **Bases de Datos**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+
+#### **Otros Lenguajes y Herramientas**
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
+
+#### **Entorno de Desarrollo**
+![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&style=flat-square)
+![Fedora](https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white&style=flat-square)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white&style=flat-square)
+
+---
 ### Especialidades
 
 - Desarrollo Full-Stack  
