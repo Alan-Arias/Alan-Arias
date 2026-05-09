@@ -60,36 +60,15 @@
 
 </div>
 
-### 🌟 Especialidades
-
-<div align="center" style="display:flex; justify-content:center; gap:25px; flex-wrap:wrap; margin:35px 0;">
-
-  <div style="background:#1f2937; padding:28px; border-radius:20px; width:280px; border:2px solid #10b981;">
-    <h3 style="color:#34d399;">🚀 Full Stack Development</h3>
-    <p>Aplicaciones web modernas y de alto rendimiento</p>
-  </div>
-
-  <div style="background:#1f2937; padding:28px; border-radius:20px; width:280px; border:2px solid #10b981;">
-    <h3 style="color:#34d399;">🛡️ Seguridad Web</h3>
-    <p>OWASP • Autenticación segura • Protección de vulnerabilidades</p>
-  </div>
-
-  <div style="background:#1f2937; padding:28px; border-radius:20px; width:280px; border:2px solid #10b981;">
-    <h3 style="color:#34d399;">🐧 Linux Expert</h3>
-    <p>Entornos optimizados • Fedora • Arch • Flujos de desarrollo eficientes</p>
-  </div>
-
-</div>
-
 ### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="195">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" height="195">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alan-Arias&theme=tokyonight&hide_border=true" height="195">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Arias&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </div>
 
 ---
