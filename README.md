@@ -42,58 +42,58 @@
 
 <div align="center">
 
-### **Frontend**
-<div style="display: flex; justify-content: center; gap: 18px; flex-wrap: wrap; margin: 18px 0;">
-  <div style="background: #1e2937; padding: 16px 20px; border-radius: 16px; border: 2px solid #4FC08D; min-width: 148px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="50" height="50"><br>
+**Frontend**
+<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 20px 0;">
+  <div style="background: #1e2937; padding: 14px 18px; border-radius: 14px; border: 2px solid #4FC08D; min-width: 130px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="48" height="48"><br>
     <strong style="color:#4FC08D;">Vue.js</strong><br>
-    <small style="color:#94a3b8;">Interfaces modernas y reactivas</small>
+    <small style="color:#94a3b8; font-size: 0.85rem;">Interfaces reactivas</small>
   </div>
-
-  <div style="background: #1e2937; padding: 16px 20px; border-radius: 16px; border: 2px solid #F7DF1E; min-width: 148px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"><br>
+  
+  <div style="background: #1e2937; padding: 14px 18px; border-radius: 14px; border: 2px solid #F7DF1E; min-width: 130px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48"><br>
     <strong style="color:#F7DF1E;">JavaScript</strong><br>
-    <small style="color:#94a3b8;">Lógica interactiva y dinámica</small>
+    <small style="color:#94a3b8; font-size: 0.85rem;">Lógica del cliente</small>
   </div>
-
-  <div style="background: #1e2937; padding: 16px 20px; border-radius: 16px; border: 2px solid #06B6D4; min-width: 148px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50"><br>
+  
+  <div style="background: #1e2937; padding: 14px 18px; border-radius: 14px; border: 2px solid #06B6D4; min-width: 130px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="48" height="48"><br>
     <strong style="color:#06B6D4;">Tailwind CSS</strong><br>
-    <small style="color:#94a3b8;">Diseño rápido y elegante</small>
+    <small style="color:#94a3b8; font-size: 0.85rem;">Diseño rápido</small>
   </div>
 </div>
 
-### **Backend**
-<div style="display: flex; justify-content: center; gap: 18px; flex-wrap: wrap; margin: 18px 0;">
-  <div style="background: #1e2937; padding: 16px 20px; border-radius: 16px; border: 2px solid #FF2D20; min-width: 148px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="50" height="50"><br>
+**Backend**
+<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 20px 0;">
+  <div style="background: #1e2937; padding: 14px 18px; border-radius: 14px; border: 2px solid #FF2D20; min-width: 130px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="48" height="48"><br>
     <strong style="color:#FF2D20;">Laravel</strong><br>
-    <small style="color:#94a3b8;">Framework PHP potente</small>
+    <small style="color:#94a3b8; font-size: 0.85rem;">Aplicaciones web</small>
   </div>
-
-  <div style="background: #1e2937; padding: 16px 20px; border-radius: 16px; border: 2px solid #777BB4; min-width: 148px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50"><br>
+  
+  <div style="background: #1e2937; padding: 14px 18px; border-radius: 14px; border: 2px solid #777BB4; min-width: 130px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48"><br>
     <strong style="color:#777BB4;">PHP</strong><br>
-    <small style="color:#94a3b8;">Lógica del servidor</small>
+    <small style="color:#94a3b8; font-size: 0.85rem;">Backend</small>
   </div>
 </div>
 
-### **Bases de Datos**
-<div style="display: flex; justify-content: center; gap: 18px; flex-wrap: wrap; margin: 18px 0;">
-  <div style="background: #1e2937; padding: 16px 20px; border-radius: 16px; border: 2px solid #4169E1; min-width: 148px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"><br>
+**Bases de Datos**
+<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 20px 0;">
+  <div style="background: #1e2937; padding: 14px 18px; border-radius: 14px; border: 2px solid #4169E1; min-width: 130px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48"><br>
     <strong style="color:#4169E1;">PostgreSQL</strong><br>
-    <small style="color:#94a3b8;">Avanzada y robusta</small>
+    <small style="color:#94a3b8; font-size: 0.85rem;">Robusta y avanzada</small>
   </div>
-
-  <div style="background: #1e2937; padding: 16px 20px; border-radius: 16px; border: 2px solid #4479A1; min-width: 148px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"><br>
+  
+  <div style="background: #1e2937; padding: 14px 18px; border-radius: 14px; border: 2px solid #4479A1; min-width: 130px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48"><br>
     <strong style="color:#4479A1;">MySQL</strong><br>
-    <small style="color:#94a3b8;">Alta disponibilidad</small>
+    <small style="color:#94a3b8; font-size: 0.85rem;">Alto rendimiento</small>
   </div>
 </div>
 
-### **🐧 Entorno Linux**
+**🐧 Entorno Linux**
 <div align="center" style="margin: 25px 0;">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu">
   <img src="https://img.shields.io/badge/Linux%20Mint-3E8C3E?logo=linux-mint&logoColor=white&style=for-the-badge" alt="Linux Mint">
