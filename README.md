@@ -22,18 +22,39 @@
 📫 Contacto: **tu-correo@gmail.com**
 <!--Intro end-->
 </p>
-
-<br>
-
 <h2>Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
+
+### 🌐 Frontend & UI/UX
+*Desarrollo de interfaces modernas, responsivas y centradas en el usuario.*
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,vue,html,css,tailwind,bootstrap,mysql,postgres,java,c,cpp,py,nodejs,git,github,docker,linux,fedora,bash,vscode,postman,ps,ai&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind,bootstrap,ps,ai&perline=12" />
   </a>
 </p>
 
-<br>
+### ⚙️ Backend & Architecture
+*Construcción de lógica de negocio robusta, APIs RESTful y gestión de datos eficiente.*
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgres,sqlite,firebase&perline=12" />
+  </a>
+</p>
+
+### 🐧 SysAdmin & DevOps
+*Gestión de entornos Linux (especialmente Fedora), automatización con Bash y contenedores.*
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,fedora,bash,docker,git,github,vscode,postman&perline=12" />
+  </a>
+</p>
+
+### 📚 Programación Multiparadigma
+*Sólidas bases en lenguajes de programación para diversos entornos de desarrollo.*
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,py&perline=12" />
+  </a>
+</p>
 
 <!-------------------------->
 <div id="proyectos">
