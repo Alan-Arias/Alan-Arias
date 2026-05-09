@@ -1,4 +1,32 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d1117,50:a371f7,100:00ffff&text=Alan%20Joel%20Arias%20Moron&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20Inform%C3%A1tico%20|%20Web%20Developer&descSize=22&descColor=ffffff&descAlignY=58" width="100%"/> <br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A371F7&center=true&vCenter=true&width=700&lines=Desarrollo+Web+Full+Stack;Laravel+%7C+Vue.js+%7C+PHP;Backend+Developer;Apasionado+por+la+Seguridad+Web" alt="Typing SVG" /> <br><br> <a href="https://komarev.com/ghpvc/?username=Alan-Arias"> <img src="https://komarev.com/ghpvc/?username=Alan-Arias&label=PROFILE+VIEWS&color=a371f7&style=for-the-badge" /> </a> <a href="https://github.com/Alan-Arias?tab=followers"> <img src="https://img.shields.io/github/followers/Alan-Arias?label=Followers&style=for-the-badge&color=00ffff" /> </a> <a href="https://github.com/Alan-Arias"> <img src="https://img.shields.io/github/stars/Alan-Arias?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=a371f7" /> </a> </div>
+<div align="center">
+  <!-- Banner con temática Linux/Fedora -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:062e5c,50:2f5da8,100:00ffff&text=Alan%20Joel%20Arias%20Moron&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Web%20Developer&descSize=22&descColor=ffffff&descAlignY=58" width="100%"/>
+  
+  <br>
+
+  <!-- Referencia a Linux Distro (Estilo Neofetch/Terminal) -->
+  <img src="https://img.shields.io/badge/OS-Fedora%20Linux-3c6eb4?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-Zsh%20%7C%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Server-Nginx%20%7C%20Apache-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+
+  <br><br>
+
+  <!-- Texto Animado -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3c6eb4&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%2B+Vue.js+Expert;Linux+SysAdmin+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+
+  <br>
+
+  <!-- Stats y Social -->
+  <a href="https://komarev.com/ghpvc/?username=Alan-Arias">
+    <img src="https://komarev.com/ghpvc/?username=Alan-Arias&label=PROFILE+VIEWS&color=3c6eb4&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Alan-Arias?tab=followers">
+    <img src="https://img.shields.io/github/followers/Alan-Arias?label=Followers&style=for-the-badge&color=00ffff" />
+  </a>
+  <a href="https://github.com/Alan-Arias">
+    <img src="https://img.shields.io/github/stars/Alan-Arias?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=3c6eb4" />
+  </a>
+</div>
 # 💫 About Me
 
 <img align="right" alt="Coding" width="320" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
