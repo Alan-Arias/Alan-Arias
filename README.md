@@ -22,39 +22,35 @@
 📫 Contacto: **tu-correo@gmail.com**
 <!--Intro end-->
 </p>
-<h2>Tecnologías conocidas👨🏻‍💻</h2>
+## Tecnologías conocidas👨🏻‍💻
 
-### 🌐 Desarrollo Frontend
-*Creación de interfaces dinámicas y responsivas con estándares modernos.*
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,materialui&perline=12" />
-  </a>
-</p>
+### 🌐 Desarrollo Web & Mobile
+| Icono | Tecnología | Icono | Tecnología | Icono | Tecnología |
+| :---: | :--- | :---: | :--- | :---: | :--- |
+| <img src="https://skillicons.dev/icons?i=html" width="22"/> | **HTML5** | <img src="https://skillicons.dev/icons?i=css" width="22"/> | **CSS3** | <img src="https://skillicons.dev/icons?i=js" width="22"/> | **JavaScript** |
+| <img src="https://skillicons.dev/icons?i=materialui" width="22"/> | **Material UI** | <img src="https://skillicons.dev/icons?i=dart" width="22"/> | **Dart** | <img src="https://skillicons.dev/icons?i=flutter" width="22"/> | **Flutter** |
+| <img src="https://skillicons.dev/icons?i=androidstudio" width="22"/> | **Android Studio** | | | | |
 
 ### ⚙️ Backend & Bases de Datos
-*Implementación de lógica de servidor y gestión de datos relacionales y móviles.*
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,nodejs,mysql,sqlite,firebase&perline=12" />
-  </a>
-</p>
+| Icono | Tecnología | Icono | Tecnología | Icono | Tecnología |
+| :---: | :--- | :---: | :--- | :---: | :--- |
+| <img src="https://skillicons.dev/icons?i=php" width="22"/> | **PHP** | <img src="https://skillicons.dev/icons?i=nodejs" width="22"/> | **Node.js** | <img src="https://skillicons.dev/icons?i=py" width="22"/> | **Python** |
+| <img src="https://skillicons.dev/icons?i=mysql" width="22"/> | **MySQL** | <img src="https://skillicons.dev/icons?i=sqlite" width="22"/> | **SQLite** | <img src="https://skillicons.dev/icons?i=firebase" width="22"/> | **Firebase** |
 
-### 🐧 Sistemas & Entorno de Desarrollo
-*Uso de sistemas Linux, automatización en terminal y control de versiones.*
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,vscode,postman&perline=12" />
-  </a>
-</p>
+### 💻 Programación & Sistemas
+| Icono | Tecnología | Icono | Tecnología | Icono | Tecnología |
+| :---: | :--- | :---: | :--- | :---: | :--- |
+| <img src="https://skillicons.dev/icons?i=c" width="22"/> | **C** | <img src="https://skillicons.dev/icons?i=cpp" width="22"/> | **C++** | <img src="https://skillicons.dev/icons?i=cs" width="22"/> | **C#** |
+| <img src="https://skillicons.dev/icons?i=java" width="22"/> | **Java** | <img src="https://skillicons.dev/icons?i=dotnet" width="22"/> | **.NET** | <img src="https://skillicons.dev/icons?i=bash" width="22"/> | **Bash** |
+| <img src="https://skillicons.dev/icons?i=linux" width="22"/> | **Linux** | | | | |
 
-### 📚 Lenguajes & Software
-*Fundamentos sólidos en programación de sistemas y herramientas de ingeniería.*
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,py,dart,flutter,androidstudio,dotnet,eclipse,ai,ps&perline=12" />
-  </a>
-</p>
+### 🛠️ Herramientas & Diseño
+| Icono | Tecnología | Icono | Tecnología | Icono | Tecnología |
+| :---: | :--- | :---: | :--- | :---: | :--- |
+| <img src="https://skillicons.dev/icons?i=git" width="22"/> | **Git** | <img src="https://skillicons.dev/icons?i=github" width="22"/> | **GitHub** | <img src="https://skillicons.dev/icons?i=docker" width="22"/> | **Docker** |
+| <img src="https://skillicons.dev/icons?i=postman" width="22"/> | **Postman** | <img src="https://skillicons.dev/icons?i=vscode" width="22"/> | **VS Code** | <img src="https://skillicons.dev/icons?i=eclipse" width="22"/> | **Eclipse** |
+| <img src="https://skillicons.dev/icons?i=ai" width="22"/> | **Illustrator** | <img src="https://skillicons.dev/icons?i=ps" width="22"/> | **Photoshop** | | |
+
 <!-------------------------->
 <div id="proyectos">
 <h2>Algunos proyectos👨🏻‍💻</h2>
