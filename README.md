@@ -2,53 +2,47 @@
 
 <div align="center">
 
-<img src="https://images7.alphacoders.com/111/1110235.jpg" width="100%" alt="Linux Banner"/>
+<img src="https://images6.alphacoders.com/632/thumb-1920-632051.png" width="100%" alt="Linux Wallpaper"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Alan+Joel+Arias+Moron;Ingeniero+Inform%C3%A1tico;Backend+%26+Web+Developer;Laravel+%7C+Vue.js+%7C+PostgreSQL;Linux+%2B+Open+Source+Enthusiast" alt="Typing SVG" />
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&pause=1000&color=A371F7&center=true&vCenter=true&width=900&height=80&lines=Alan+Joel+Arias+Moron;Ingeniero+Inform%C3%A1tico;Full+Stack+Developer;Laravel+%7C+Vue.js+%7C+PostgreSQL;Linux+%2B+Backend+Developer" alt="Typing SVG" />
+</h1>
 
-<br><br>
+<br>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Fedora-07273D?style=for-the-badge&logo=fedora&logoColor=51A2DA"/>
-<img src="https://img.shields.io/badge/Laravel-161B22?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
-<img src="https://img.shields.io/badge/Vue.js-161B22?style=for-the-badge&logo=vuedotjs&logoColor=42B883"/>
-<img src="https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=316192"/>
+<img src="https://img.shields.io/badge/Linux-Developer-black?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Fedora-Server-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 </p>
 
 <br>
 
-<table align="center">
-<tr border="none">
+<p align="center">
 
-<td width="33%" align="center">
+<a href="https://komarev.com/ghpvc/?username=Alan-Arias">
+<img src="https://komarev.com/ghpvc/?username=Alan-Arias&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=Alan-Arias&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge"/>
+<a href="https://github.com/Alan-Arias?tab=followers">
+<img src="https://img.shields.io/github/followers/Alan-Arias?label=FOLLOWERS&style=for-the-badge&color=0e75b6"/>
+</a>
 
-</td>
+<a href="https://github.com/Alan-Arias">
+<img src="https://img.shields.io/github/stars/Alan-Arias?style=for-the-badge&color=6f42c1"/>
+</a>
 
-<td width="33%" align="center">
-
-<img src="https://img.shields.io/github/followers/Alan-Arias?label=FOLLOWERS&style=for-the-badge&color=8957E5"/>
-
-</td>
-
-<td width="33%" align="center">
-
-<img src="https://img.shields.io/github/stars/Alan-Arias?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=238636"/>
-
-</td>
-
-</tr>
-</table>
+</p>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F6FEB&height=2.5"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:a371f7&height=2&section=header"/>
 
 </div>
 
@@ -56,7 +50,7 @@
 
 <div align="center">
 
-### 💻 Passionate about Web Development, Linux & Backend Technologies
+### 🚀 Building Web Applications, APIs & Linux-Based Solutions
 
 </div>
 
