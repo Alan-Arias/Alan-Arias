@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">👋 Alan Joel Arias Morón</h1>
-<h3 align="center">Ingeniero Informático • Desarrollador Web Full-Stack • Seguridad Web</h3>
+<h3 align="center">Ingeniero Informático • Desarrollador Web Full-Stack • Seguridad Web • Database</h3>
 
 <br>
 
@@ -72,7 +72,7 @@
 
   <div style="background:#1f2937; padding: 25px; border-radius: 20px; width: 260px; border: 2px solid #10b981;">
     <h3 style="color:#34d399;">🛡️ Seguridad Web</h3>
-    <p>OWASP • Autenticación segura • Protección de vulnerabilidades</p>
+    <p>Proteccion Web • Autenticación segura • Protección de vulnerabilidades</p>
   </div>
 
   <div style="background:#1f2937; padding: 25px; border-radius: 20px; width: 260px; border: 2px solid #10b981;">
