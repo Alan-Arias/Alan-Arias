@@ -25,75 +25,45 @@
 
 ---
 
-## 🧠 Tecnologías que manejo
+<h2>🧠 Tecnologías & habilidades</h2>
 
-### 🌐 Frontend
+<h3>🌐 Frontend</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,materialui,flutter,dart" />
+HTML5 · CSS3 · JavaScript · React · Material UI · Flutter · Dart<br>
+💡 Desarrollo de interfaces modernas, responsivas y multiplataforma.
 </p>
 
-- **HTML5** → Estructura de páginas web semánticas y accesibles  
-- **CSS3** → Diseño visual, layouts responsivos y animaciones  
-- **JavaScript** → Interactividad y lógica del lado del cliente  
-- **React** → Interfaces modernas basadas en componentes  
-- **Material UI** → Componentes UI listos para diseño profesional  
-- **Flutter** → Apps móviles multiplataforma  
-- **Dart** → Lenguaje base para Flutter  
+<hr>
 
----
-
-### ⚙️ Backend & Bases de Datos
+<h3>⚙️ Backend & Bases de Datos</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=php,nodejs,python,mysql,sqlite,firebase" />
+PHP · Node.js · Python · MySQL · SQLite · Firebase<br>
+💡 Creación de APIs, lógica de servidor y gestión de bases de datos.
 </p>
 
-- **PHP** → Desarrollo backend para aplicaciones web dinámicas  
-- **Node.js** → Backend escalable con JavaScript  
-- **Python** → Automatización, lógica y desarrollo backend  
-- **MySQL** → Bases de datos relacionales  
-- **SQLite** → Base de datos ligera local  
-- **Firebase** → Backend en la nube con tiempo real  
+<hr>
 
----
-
-### 💻 Lenguajes & Sistemas
+<h3>💻 Lenguajes & Sistemas</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,cs,c,dotnet,bash,linux" />
+Java · C · C++ · C# · .NET · Bash · Linux<br>
+💡 Programación de sistemas, software empresarial y automatización.
 </p>
 
-- **Java** → Aplicaciones empresariales y backend robusto  
-- **C++** → Programación de alto rendimiento  
-- **C#** → Desarrollo en ecosistema .NET  
-- **C** → Programación de bajo nivel y sistemas  
-- **.NET** → Framework para aplicaciones web y desktop  
-- **Bash** → Automatización en Linux  
-- **Linux** → Sistemas operativos y administración  
+<hr>
 
----
-
-### 🛠️ Herramientas
+<h3>🛠️ Herramientas</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,eclipse" />
+Git · GitHub · Docker · Postman · VS Code · Eclipse<br>
+💡 Flujo de trabajo profesional, control de versiones y testing.
 </p>
 
-- **Git** → Control de versiones  
-- **GitHub** → Repositorios y colaboración  
-- **Docker** → Contenerización de aplicaciones  
-- **Postman** → Pruebas de APIs  
-- **VS Code** → Editor principal de desarrollo  
-- **Eclipse** → IDE para Java y otros lenguajes  
+<hr>
 
----
-
-### 🎨 Diseño
+<h3>🎨 Diseño</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=ps,ai" />
-</p>
-
-- **Photoshop** → Edición de imágenes  
-- **Illustrator** → Diseño vectorial y branding  
-
-## 📌 Proyectos destacados
+Photoshop · Illustrator<br>
+💡 Diseño gráfico, interfaces y prototipos visuales.
+</p>## 📌 Proyectos destacados
 
 ### 🚗 Sistema de Escuela de Conducción
 <p align="center">
