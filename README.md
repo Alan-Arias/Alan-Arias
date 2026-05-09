@@ -42,36 +42,27 @@
 
 <div align="center">
 
-**Frontend**  
-<div style="margin: 15px 0;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="55" height="55" style="margin: 8px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55" style="margin: 8px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="55" height="55" style="margin: 8px;">
-</div>
-**Vue.js** • **JavaScript** • **Tailwind CSS**
+#### **Frontend**
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="55" height="55"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="55" height="55"> |
+|:-:|:-:|:-:|
+| **Vue.js**<br><small>Interfaces modernas</small> | **JavaScript**<br><small>Lógica interactiva</small> | **Tailwind CSS**<br><small>Diseño rápido</small> |
 
-**Backend**  
-<div style="margin: 15px 0;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="55" height="55" style="margin: 8px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="55" height="55" style="margin: 8px;">
-</div>
-**Laravel** • **PHP**
+#### **Backend**
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="55" height="55"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="55" height="55"> |
+|:-:|:-:|
+| **Laravel**<br><small>Framework PHP potente</small> | **PHP**<br><small>Lógica del servidor</small> |
 
-**Bases de Datos**  
-<div style="margin: 15px 0;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="55" height="55" style="margin: 8px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55" style="margin: 8px;">
-</div>
-**PostgreSQL** • **MySQL**
+#### **Bases de Datos**
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="55" height="55"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55"> |
+|:-:|:-:|
+| **PostgreSQL**<br><small>Robusta y avanzada</small> | **MySQL**<br><small>Alto rendimiento</small> |
 
-**🐧 Entorno Linux**  
-<div style="margin: 20px 0;">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/Linux%20Mint-3E8C3E?logo=linux-mint&logoColor=white&style=for-the-badge" alt="Linux Mint">
-  <img src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white&style=for-the-badge" alt="Fedora">
-  <img src="https://img.shields.io/badge/Nobara-000000?logo=nobara&logoColor=white&style=for-the-badge" alt="Nobara">
-  <img src="https://img.shields.io/badge/Debian-A81C2D?logo=debian&logoColor=white&style=for-the-badge" alt="Debian">
-</div>
+#### **🐧 Entorno Linux**
+<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu">
+<img src="https://img.shields.io/badge/Linux%20Mint-3E8C3E?logo=linux-mint&logoColor=white&style=for-the-badge" alt="Linux Mint">
+<img src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white&style=for-the-badge" alt="Fedora">
+<img src="https://img.shields.io/badge/Nobara-000000?logo=nobara&logoColor=white&style=for-the-badge" alt="Nobara">
+<img src="https://img.shields.io/badge/Debian-A81C2D?logo=debian&logoColor=white&style=for-the-badge" alt="Debian">
 
 </div>
 ### 🌟 Especialidades
