@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">👋 Alan Joel Arias Morón</h1>
-<h3 align="center">Ingeniero Informático • Desarrollador Web Full-Stack • Seguridad Web</h3>
+<h3 align="center">Ingeniero Informático • Desarrollador Web Full-Stack • Especialista en Seguridad Web</h3>
 
 <br>
 
@@ -50,7 +50,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square)
 
-**Databases**  
+**Bases de Datos**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 
@@ -60,11 +60,32 @@
 
 </div>
 
+### 🌟 Especialidades
+
+<div align="center" style="display:flex; justify-content:center; gap:25px; flex-wrap:wrap; margin:35px 0;">
+
+  <div style="background:#1f2937; padding:28px; border-radius:20px; width:280px; border:2px solid #10b981;">
+    <h3 style="color:#34d399;">🚀 Full Stack Development</h3>
+    <p>Aplicaciones web modernas y de alto rendimiento</p>
+  </div>
+
+  <div style="background:#1f2937; padding:28px; border-radius:20px; width:280px; border:2px solid #10b981;">
+    <h3 style="color:#34d399;">🛡️ Seguridad Web</h3>
+    <p>OWASP • Autenticación segura • Protección de vulnerabilidades</p>
+  </div>
+
+  <div style="background:#1f2937; padding:28px; border-radius:20px; width:280px; border:2px solid #10b981;">
+    <h3 style="color:#34d399;">🐧 Linux Expert</h3>
+    <p>Entornos optimizados • Fedora • Arch</p>
+  </div>
+
+</div>
+
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alan-Arias&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="195">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alan-Arias&theme=tokyonight&hide_border=true" height="195">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alan-Arias&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="195" alt="Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alan-Arias&theme=tokyonight&hide_border=true" height="195" alt="Streak">
 </div>
 
 <div align="center">
@@ -73,13 +94,20 @@
 
 ---
 
-### 📫 Conecta conmigo
+### 📫 Contáctame
 
 <div align="center" style="margin:40px 0;">
   <a href="https://github.com/Alan-Arias"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/ariasalan20/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
-  <a href="mailto:alanarias20@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
+  <a href="https://linkedin.com/in/TU_PERFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
 </div>
 
 <br>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=10b981&height=120&section=footer&text=Desarrollando%20con%20pasión%20y%20seguridad&fontSize=19&fontColor=ffffff" alt="footer">
+</div>
+
+<p align="center">
+  <i>💚 Linux • Vue • Laravel • Seguridad Web</i>
+</p>
