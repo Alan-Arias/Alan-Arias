@@ -25,11 +25,13 @@
 
 ---
 
+
 <h2>🧠 Tecnologías & habilidades</h2>
 
 <h3>🌐 Frontend</h3>
 <p>
-HTML5 · CSS3 · JavaScript · React · Material UI · Flutter · Dart<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,materialui,flutter,dart" />
+<br>
 💡 Desarrollo de interfaces modernas, responsivas y multiplataforma.
 </p>
 
@@ -37,7 +39,8 @@ HTML5 · CSS3 · JavaScript · React · Material UI · Flutter · Dart<br>
 
 <h3>⚙️ Backend & Bases de Datos</h3>
 <p>
-PHP · Node.js · Python · MySQL · SQLite · Firebase<br>
+<img src="https://skillicons.dev/icons?i=php,nodejs,python,mysql,sqlite,firebase" />
+<br>
 💡 Creación de APIs, lógica de servidor y gestión de bases de datos.
 </p>
 
@@ -45,7 +48,8 @@ PHP · Node.js · Python · MySQL · SQLite · Firebase<br>
 
 <h3>💻 Lenguajes & Sistemas</h3>
 <p>
-Java · C · C++ · C# · .NET · Bash · Linux<br>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,cs,dotnet,bash,linux" />
+<br>
 💡 Programación de sistemas, software empresarial y automatización.
 </p>
 
@@ -53,7 +57,8 @@ Java · C · C++ · C# · .NET · Bash · Linux<br>
 
 <h3>🛠️ Herramientas</h3>
 <p>
-Git · GitHub · Docker · Postman · VS Code · Eclipse<br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,eclipse" />
+<br>
 💡 Flujo de trabajo profesional, control de versiones y testing.
 </p>
 
@@ -61,8 +66,10 @@ Git · GitHub · Docker · Postman · VS Code · Eclipse<br>
 
 <h3>🎨 Diseño</h3>
 <p>
-Photoshop · Illustrator<br>
+<img src="https://skillicons.dev/icons?i=ps,ai" />
+<br>
 💡 Diseño gráfico, interfaces y prototipos visuales.
+</p>
 </p>## 📌 Proyectos destacados
 
 ### 🚗 Sistema de Escuela de Conducción
