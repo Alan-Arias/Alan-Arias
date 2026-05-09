@@ -43,28 +43,35 @@
 
 ### 🛠️ Tecnologías
 
-<div align="center">
+<div align="center" style="margin: 20px 0;">
 
 **Frontend**  
-`Vue.js` → Interfaces modernas y reactivas  
-`JavaScript` → Lógica del cliente  
-`Tailwind CSS` → Diseño rápido y responsive  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
 
 **Backend**  
-`Laravel` → Framework PHP potente y elegante  
-`PHP` → Desarrollo del lado del servidor  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square)
 
 **Bases de Datos**  
-`PostgreSQL` → Base de datos relacional principal  
-`MySQL` → Base de datos alternativa  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 
-**Otros Lenguajes**  
-`Java` → Aplicaciones robustas y backend  
-
-**Entorno de Desarrollo**  
-`Linux` • `Ubuntu` • `Linux Mint` • `Fedora` • `Nobara` • `Debian` → Entornos principales de trabajo
+**Otros**  
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat-square)
 
 </div>
+
+**🐧 Entorno Linux**  
+<div align="center">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/Linux%20Mint-3E8C3E?logo=linux-mint&logoColor=white&style=flat-square" alt="Linux Mint">
+  <img src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white&style=flat-square" alt="Fedora">
+  <img src="https://img.shields.io/badge/Nobara-000000?logo=nobara&logoColor=white&style=flat-square" alt="Nobara">
+  <img src="https://img.shields.io/badge/Debian-A81C2D?logo=debian&logoColor=white&style=flat-square" alt="Debian">
+</div>
+
 ### 🌟 Especialidades
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
