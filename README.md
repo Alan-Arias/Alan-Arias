@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://images6.alphacoders.com/632/thumb-1920-632051.png" width="100%" alt="Linux Wallpaper"/>
+<img src="https://i.pinimg.com/736x/70/31/35/703135a15b9edfdd164e8e4783e9cf3b.jpg" width="100%" alt="Linux Wallpaper"/>
 
 <br><br>
 
