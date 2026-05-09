@@ -14,17 +14,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="55" height="55">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="55" height="55">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="55" height="55">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" height="55">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="55" height="55">
-</div>
-
----
-
 <div style="background: #0f172a; border: 2px solid #22d3ee; border-radius: 20px; padding: 35px; margin: 30px 0;">
   <p align="center" style="font-size: 1.18rem;">
     Ingeniero Informático apasionado por construir aplicaciones web seguras, rápidas y escalables.<br>
