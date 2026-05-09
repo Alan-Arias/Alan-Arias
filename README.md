@@ -63,7 +63,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="195">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alan-Arias&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="195">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alan-Arias&theme=tokyonight&hide_border=true" height="195">
 </div>
 
