@@ -43,32 +43,61 @@
 
 ### 🛠️ Tecnologías
 
-<div align="center">
-
 #### **Frontend**
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+<div align="center">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square" alt="Vue.js"> 
+  <strong>Vue.js</strong> — Interfaces de usuario modernas y reactivas &nbsp;&nbsp;
+  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript"> 
+  <strong>JavaScript</strong> — Lógica del lado del cliente &nbsp;&nbsp;
+  
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square" alt="Tailwind"> 
+  <strong>Tailwind CSS</strong> — Diseño rápido y responsive
+</div>
 
 #### **Backend**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+<div align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square" alt="Laravel"> 
+  <strong>Laravel</strong> — Framework PHP para aplicaciones robustas &nbsp;&nbsp;
+  
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square" alt="PHP"> 
+  <strong>PHP</strong> — Desarrollo del lado del servidor
+</div>
 
 #### **Bases de Datos**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+<div align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL"> 
+  <strong>PostgreSQL</strong> — Base de datos relacional avanzada &nbsp;&nbsp;
+  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" alt="MySQL"> 
+  <strong>MySQL</strong> — Base de datos relacional
+</div>
 
-#### **Lenguajes Adicionales**
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)
+#### **Otros Lenguajes**
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat-square" alt="Java"> 
+  <strong>Java</strong> — Programación orientada a objetos
+</div>
 
-#### **Entorno de Desarrollo**
-![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&style=for-the-badge)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-3E8C3E?logo=linux-mint&logoColor=white&style=for-the-badge)
-![Fedora](https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white&style=for-the-badge)
-![Nobara](https://img.shields.io/badge/Nobara-000000?logo=nobara&logoColor=white&style=for-the-badge)
-![Debian](https://img.shields.io/badge/Debian-A81C2D?logo=debian&logoColor=white&style=for-the-badge)
-
+#### **🐧 Entorno de Desarrollo**
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&style=flat-square" alt="Linux"> 
+  <strong>Linux</strong> — Entorno principal &nbsp;&nbsp;
+  
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square" alt="Ubuntu"> 
+  <strong>Ubuntu</strong> &nbsp;&nbsp;
+  
+  <img src="https://img.shields.io/badge/Linux%20Mint-3E8C3E?logo=linux-mint&logoColor=white&style=flat-square" alt="Linux Mint"> 
+  <strong>Linux Mint</strong> &nbsp;&nbsp;
+  
+  <img src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white&style=flat-square" alt="Fedora"> 
+  <strong>Fedora</strong> &nbsp;&nbsp;
+  
+  <img src="https://img.shields.io/badge/Nobara-000000?logo=nobara&logoColor=white&style=flat-square" alt="Nobara"> 
+  <strong>Nobara</strong> &nbsp;&nbsp;
+  
+  <img src="https://img.shields.io/badge/Debian-A81C2D?logo=debian&logoColor=white&style=flat-square" alt="Debian"> 
+  <strong>Debian</strong>
 </div>
 
 ### 🌟 Especialidades
