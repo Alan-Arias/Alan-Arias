@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=320&section=header&text=Alan%20Joel%20Arias%20Mor%C3%B3n&fontSize=50&fontColor=ffffff&animation=blobs" alt="Banner">
+  <img src="https://lh3.googleusercontent.com/pw/AP1GczO9HYmDinczgM7bl-7lz0LLvGkvXLYFE1xt1kyKFcQ1f4mWRijbVWZc62W1KLvis4VrLja9mU5MzugzoUYNWHKc9UcUFerQJiUC8J-OXynbTCTp9DdaSehzvVXT9aRLqhmLwyR21s_DY_jG8xwBXpG6TA=w1100-h301-s-no?authuser=0" alt="Banner">
 </div>
 
 <h1 align="center">👋 Alan Joel Arias Morón</h1>
