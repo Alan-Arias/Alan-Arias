@@ -2,19 +2,23 @@
 
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/70/31/35/703135a15b9edfdd164e8e4783e9cf3b.jpg" width="100%" alt="Linux Wallpaper"/>
+<img 
+src="TU_LINK_DE_IMAGEN" 
+alt="Linux Banner"
+width="100%" 
+height="320px"
+style="object-fit: cover; border-radius: 18px;" 
+/>
 
 <br><br>
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&pause=1000&color=A371F7&center=true&vCenter=true&width=900&height=80&lines=Alan+Joel+Arias+Moron;Ingeniero+Inform%C3%A1tico;Full+Stack+Developer;Laravel+%7C+Vue.js+%7C+PostgreSQL;Linux+%2B+Backend+Developer" alt="Typing SVG" />
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=A371F7&center=true&vCenter=true&width=900&lines=Alan+Joel+Arias+Moron;Ingeniero+Inform%C3%A1tico;Full+Stack+Developer;Laravel+%7C+Vue.js+%7C+PHP;Linux+Backend+Developer;Apasionado+por+la+Seguridad+Web" alt="Typing SVG" />
 
-<br>
+<br><br>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Linux-Developer-black?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Linux-Enthusiast-black?style=for-the-badge&logo=linux&logoColor=FCC624"/>
 <img src="https://img.shields.io/badge/Fedora-Server-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
@@ -42,7 +46,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:a371f7&height=2&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,100:a371f7"/>
 
 </div>
 
@@ -50,7 +54,7 @@
 
 <div align="center">
 
-### 🚀 Building Web Applications, APIs & Linux-Based Solutions
+### 🐧 Building modern web applications with Laravel, Vue.js and Linux environments
 
 </div>
 
