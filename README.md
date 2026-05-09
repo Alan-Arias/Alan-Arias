@@ -10,7 +10,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&style=for-the-badge" alt="Linux">
   <img src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white&style=for-the-badge" alt="Fedora">
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white&style=for-the-badge" alt="Arch">
 </div>
 
 <br>
@@ -57,6 +56,6 @@
 
 <div align="center">
   <a href="https://github.com/Alan-Arias"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"></a>
-  <a href="https://linkedin.com/in/TU_PERFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-  <a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/ariasalan20"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="mailto:alanarias20@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
 </div>
