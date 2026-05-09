@@ -43,47 +43,66 @@
 
 <div align="center">
 
-**Frontend**  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square) 
-**Vue.js** — Framework progresivo para crear interfaces de usuario modernas, reactivas y de excelente rendimiento.  
+### **Frontend**
+<div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin: 15px 0;">
+  <div style="background: #1e2937; padding: 18px 22px; border-radius: 16px; border: 2px solid #4FC08D; width: 280px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="55" height="55"><br>
+    <strong>Vue.js</strong><br>
+    <small>Framework progresivo para interfaces modernas y de alto rendimiento</small>
+  </div>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) 
-**JavaScript (ES6+)** — Lenguaje principal para desarrollar lógica interactiva en el navegador.  
+  <div style="background: #1e2937; padding: 18px 22px; border-radius: 16px; border: 2px solid #F7DF1E; width: 280px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55"><br>
+    <strong>JavaScript (ES6+)</strong><br>
+    <small>Lógica del cliente, interactividad y experiencia de usuario</small>
+  </div>
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square) 
-**Tailwind CSS** — Framework utility-first para diseñar interfaces rápidas, responsivas y con gran experiencia visual.
-
+  <div style="background: #1e2937; padding: 18px 22px; border-radius: 16px; border: 2px solid #06B6D4; width: 280px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="55" height="55"><br>
+    <strong>Tailwind CSS</strong><br>
+    <small>Diseño rápido, responsive y con excelente estética</small>
+  </div>
 </div>
 
-<div align="center">
+### **Backend**
+<div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin: 15px 0;">
+  <div style="background: #1e2937; padding: 18px 22px; border-radius: 16px; border: 2px solid #FF2D20; width: 280px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="55" height="55"><br>
+    <strong>Laravel</strong><br>
+    <small>Framework PHP elegante para aplicaciones web y APIs escalables</small>
+  </div>
 
-**Backend**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square) 
-**Laravel** — Framework PHP elegante para crear aplicaciones web y APIs seguras y escalables.  
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square) 
-**PHP** — Lenguaje del lado del servidor para lógica de negocio y manejo de datos.
-
+  <div style="background: #1e2937; padding: 18px 22px; border-radius: 16px; border: 2px solid #777BB4; width: 280px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="55" height="55"><br>
+    <strong>PHP</strong><br>
+    <small>Lógica del servidor y manejo de negocio</small>
+  </div>
 </div>
 
-<div align="center">
+### **Bases de Datos**
+<div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin: 15px 0;">
+  <div style="background: #1e2937; padding: 18px 22px; border-radius: 16px; border: 2px solid #4169E1; width: 280px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="55" height="55"><br>
+    <strong>PostgreSQL</strong><br>
+    <small>Base de datos avanzada, robusta y de alto rendimiento</small>
+  </div>
 
-**Bases de Datos**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square) 
-**PostgreSQL** — Base de datos relacional avanzada y robusta.  
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) 
-**MySQL** — Base de datos relacional de alto rendimiento.
-
+  <div style="background: #1e2937; padding: 18px 22px; border-radius: 16px; border: 2px solid #4479A1; width: 280px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55"><br>
+    <strong>MySQL</strong><br>
+    <small>Base de datos confiable y de alto tráfico</small>
+  </div>
 </div>
 
-**🐧 Entorno Linux**  
-<div align="center">
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square)
-  ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-3E8C3E?logo=linux-mint&logoColor=white&style=flat-square)
-  ![Fedora](https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white&style=flat-square)
-  ![Nobara](https://img.shields.io/badge/Nobara-000000?logo=nobara&logoColor=white&style=flat-square)
-  ![Debian](https://img.shields.io/badge/Debian-A81C2D?logo=debian&logoColor=white&style=flat-square)
+### **🐧 Entorno de Desarrollo**
+<div align="center" style="margin: 20px 0;">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/Linux%20Mint-3E8C3E?logo=linux-mint&logoColor=white&style=for-the-badge" alt="Linux Mint">
+  <img src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white&style=for-the-badge" alt="Fedora">
+  <img src="https://img.shields.io/badge/Nobara-000000?logo=nobara&logoColor=white&style=for-the-badge" alt="Nobara">
+  <img src="https://img.shields.io/badge/Debian-A81C2D?logo=debian&logoColor=white&style=for-the-badge" alt="Debian">
+</div>
+
 </div>
 
 ### 🌟 Especialidades
