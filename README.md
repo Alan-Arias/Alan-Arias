@@ -3,7 +3,7 @@
 <div align="center">
 
 <img 
-src="TU_LINK_DE_IMAGEN" 
+src="https://i.pinimg.com/736x/70/31/35/703135a15b9edfdd164e8e4783e9cf3b.jpg" 
 alt="Linux Banner"
 width="100%" 
 height="320px"
