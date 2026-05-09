@@ -65,6 +65,7 @@
 <img src="https://img.shields.io/badge/Debian-A81C2D?logo=debian&logoColor=white&style=for-the-badge" alt="Debian">
 
 </div>
+
 ### 🌟 Especialidades
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
