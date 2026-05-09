@@ -24,38 +24,37 @@
 </p>
 <h2>Tecnologías conocidas👨🏻‍💻</h2>
 
-### 🌐 Frontend & UI/UX
-*Desarrollo de interfaces modernas, responsivas y centradas en el usuario.*
+### 🌐 Desarrollo Frontend
+*Creación de interfaces dinámicas y responsivas con estándares modernos.*
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind,bootstrap,ps,ai&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,materialui&perline=12" />
   </a>
 </p>
 
-### ⚙️ Backend & Architecture
-*Construcción de lógica de negocio robusta, APIs RESTful y gestión de datos eficiente.*
+### ⚙️ Backend & Bases de Datos
+*Implementación de lógica de servidor y gestión de datos relacionales y móviles.*
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgres,sqlite,firebase&perline=12" />
+    <img src="https://skillicons.dev/icons?i=php,nodejs,mysql,sqlite,firebase&perline=12" />
   </a>
 </p>
 
-### 🐧 SysAdmin & DevOps
-*Gestión de entornos Linux (especialmente Fedora), automatización con Bash y contenedores.*
+### 🐧 Sistemas & Entorno de Desarrollo
+*Uso de sistemas Linux, automatización en terminal y control de versiones.*
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,fedora,bash,docker,git,github,vscode,postman&perline=12" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,vscode,postman&perline=12" />
   </a>
 </p>
 
-### 📚 Programación Multiparadigma
-*Sólidas bases en lenguajes de programación para diversos entornos de desarrollo.*
+### 📚 Lenguajes & Software
+*Fundamentos sólidos en programación de sistemas y herramientas de ingeniería.*
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,py&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,py,dart,flutter,androidstudio,dotnet,eclipse,ai,ps&perline=12" />
   </a>
 </p>
-
 <!-------------------------->
 <div id="proyectos">
 <h2>Algunos proyectos👨🏻‍💻</h2>
