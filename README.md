@@ -44,31 +44,37 @@
 ### 🛠️ Tecnologías
 
 #### **Frontend**
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="70" height="70" style="margin:10px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70" height="70" style="margin:10px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="70" height="70" style="margin:10px">
+</div>
 
 #### **Backend**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="70" height="70" style="margin:10px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="70" height="70" style="margin:10px">
+</div>
 
 #### **Bases de Datos**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="70" height="70" style="margin:10px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="70" height="70" style="margin:10px">
+</div>
 
-#### **Lenguajes Adicionales**
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat-square)
+#### **Otros**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="70" height="70" style="margin:10px">
+</div>
 
-#### **Entorno de Desarrollo**
-![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white&style=flat-square)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-3E8C3E?logo=linux-mint&logoColor=white&style=flat-square)
-![Fedora](https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white&style=flat-square)
-![Nobara](https://img.shields.io/badge/Nobara-000000?logo=nobara&logoColor=white&style=flat-square)
-![Debian](https://img.shields.io/badge/Debian-A81C2D?logo=debian&logoColor=white&style=flat-square)
-
----
-
+#### **🐧 Entorno Linux**
+<div align="center">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/Linux%20Mint-3E8C3E?logo=linux-mint&logoColor=white&style=for-the-badge" alt="Linux Mint">
+  <img src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white&style=for-the-badge" alt="Fedora">
+  <img src="https://img.shields.io/badge/Nobara-000000?logo=nobara&logoColor=white&style=for-the-badge" alt="Nobara">
+  <img src="https://img.shields.io/badge/Debian-A81C2D?logo=debian&logoColor=white&style=for-the-badge" alt="Debian">
+</div>
 ### 🌟 Especialidades
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
