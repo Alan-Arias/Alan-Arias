@@ -39,7 +39,6 @@
 <br><br>
 
 ---
-
 # 🧠 Focus Areas
 
 <div align="center">
@@ -48,31 +47,41 @@
 <tr>
 <td align="center" width="220">
 
-<img src="https://skillicons.dev/icons?i=laravel" width="60"/>
+<img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="70"/>
 
 ### 🌐 Desarrollo Web
 
-Construcción de aplicaciones web modernas usando Laravel, Vue.js y tecnologías frontend actuales.
+Aplicaciones web modernas usando tecnologías frontend y backend.
 
 </td>
 
 <td align="center" width="220">
 
-<img src="https://skillicons.dev/icons?i=postgresql" width="60"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="70"/>
 
-### 🗄️ Bases de Datos
+### ⚙️ Backend
 
-Diseño y gestión de bases de datos relacionales con PostgreSQL y MySQL.
+Construcción de APIs, lógica de negocio y sistemas escalables.
 
 </td>
 
 <td align="center" width="220">
 
-<img src="https://skillicons.dev/icons?i=linux" width="60"/>
+<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="70"/>
+
+### 🗄️ Base de Datos
+
+Diseño y administración de bases de datos relacionales.
+
+</td>
+
+<td align="center" width="220">
+
+<img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="70"/>
 
 ### 🔐 Seguridad Web
 
-Buenas prácticas de autenticación, validación y protección en aplicaciones web.
+Buenas prácticas de autenticación, validación y protección web.
 
 </td>
 </tr>
@@ -88,168 +97,75 @@ Buenas prácticas de autenticación, validación y protección en aplicaciones w
 
 ## 💻 Programming Languages
 
-<table>
-<tr>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=java" width="55"/><br>
-<b>Java</b><br>
-Aplicaciones y lógica backend
-</td>
+<p>
+  <img src="https://skillicons.dev/icons?i=java" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" />
+</p>
 
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=php" width="55"/><br>
-<b>PHP</b><br>
-Desarrollo backend web
-</td>
-
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=js" width="55"/><br>
-<b>JavaScript</b><br>
-Interactividad frontend
-</td>
-</tr>
-</table>
+Java para desarrollo orientado a objetos, PHP para backend web y JavaScript para aplicaciones interactivas.
 
 ---
 
 ## 🎨 Frontend Development
 
-<table>
-<tr>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=vue" width="55"/><br>
-<b>Vue.js</b><br>
-Interfaces dinámicas
-</td>
+<p>
+  <img src="https://skillicons.dev/icons?i=vue" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+</p>
 
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=html" width="55"/><br>
-<b>HTML5</b><br>
-Estructura web
-</td>
-
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=css" width="55"/><br>
-<b>CSS3</b><br>
-Diseño responsivo
-</td>
-</tr>
-
-<tr>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>
-<b>Tailwind CSS</b><br>
-Diseño moderno
-</td>
-
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="55"/><br>
-<b>Bootstrap</b><br>
-Componentes UI
-</td>
-
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=vite" width="55"/><br>
-<b>Vite</b><br>
-Frontend tooling
-</td>
-</tr>
-</table>
+Desarrollo de interfaces modernas y responsivas utilizando Vue.js, Tailwind CSS y Bootstrap.
 
 ---
 
 ## ⚙️ Backend Development
 
-<table>
-<tr>
-<td align="center" width="180">
-<img src="https://skillicons.dev/icons?i=laravel" width="55"/><br>
-<b>Laravel</b><br>
-Framework PHP MVC
-</td>
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
 
-<td align="center" width="180">
-<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>
-<b>Node.js</b><br>
-Servicios backend
-</td>
-
-<td align="center" width="180">
-<img src="https://skillicons.dev/icons?i=apache" width="55"/><br>
-<b>Apache</b><br>
-Servidor web
-</td>
-</tr>
-</table>
+Construcción de aplicaciones backend robustas y APIs REST usando Laravel y Node.js.
 
 ---
 
 ## 🗄️ Database Management
 
-<table>
-<tr>
-<td align="center" width="180">
-<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
-<b>MySQL</b><br>
-Gestión relacional
-</td>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+</p>
 
-<td align="center" width="180">
-<img src="https://skillicons.dev/icons?i=postgresql" width="55"/><br>
-<b>PostgreSQL</b><br>
-Bases de datos robustas
-</td>
-</tr>
-</table>
+Experiencia trabajando con bases de datos relacionales y consultas SQL.
 
 ---
 
 ## 🛠️ Tools & Environment
 
-<table>
-<tr>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=git" width="55"/><br>
-<b>Git</b><br>
-Control de versiones
-</td>
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
 
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>
-<b>VS Code</b><br>
-Editor principal
-</td>
-
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=postman" width="55"/><br>
-<b>Postman</b><br>
-Testing APIs
-</td>
-</tr>
-
-<tr>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=linux" width="55"/><br>
-<b>Linux</b><br>
-Entorno de desarrollo
-</td>
-
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=github" width="55"/><br>
-<b>GitHub</b><br>
-Repositorios y colaboración
-</td>
-
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=docker" width="55"/><br>
-<b>Docker</b><br>
-Contenedores y despliegue
-</td>
-</tr>
-</table>
+Herramientas utilizadas para desarrollo, testing, control de versiones y entornos Linux.
 
 </div>
-
 ---
 
 # 📊 GitHub Analytics
