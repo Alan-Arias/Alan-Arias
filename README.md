@@ -24,10 +24,8 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="70" height="70"><br><b>Vue.js</b></td>
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="70" height="70"><br><b>Laravel</b></td>
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="70" height="70"><br><b>PostgreSQL</b></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70" height="70"><br><b>JavaScript</b></td>
     </tr>
   </table>
 </div>
@@ -43,33 +41,49 @@
 
 ### 🛠️ Tecnologías
 
-<div align="center" style="margin: 20px 0;">
+<div align="center">
 
 **Frontend**  
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square) 
+**Vue.js** — Framework progresivo para crear interfaces de usuario modernas, reactivas y de excelente rendimiento.  
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+**JavaScript (ES6+)** — Lenguaje principal para desarrollar lógica interactiva en el navegador.  
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square) 
+**Tailwind CSS** — Framework utility-first para diseñar interfaces rápidas, responsivas y con gran experiencia visual.
+
+</div>
+
+<div align="center">
 
 **Backend**  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square)
+**Laravel** — Framework PHP elegante para crear aplicaciones web y APIs seguras y escalables.  
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square) 
+**PHP** — Lenguaje del lado del servidor para lógica de negocio y manejo de datos.
+
+</div>
+
+<div align="center">
 
 **Bases de Datos**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+**PostgreSQL** — Base de datos relacional avanzada y robusta.  
 
-**Otros**  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) 
+**MySQL** — Base de datos relacional de alto rendimiento.
 
 </div>
 
 **🐧 Entorno Linux**  
 <div align="center">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/Linux%20Mint-3E8C3E?logo=linux-mint&logoColor=white&style=flat-square" alt="Linux Mint">
-  <img src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white&style=flat-square" alt="Fedora">
-  <img src="https://img.shields.io/badge/Nobara-000000?logo=nobara&logoColor=white&style=flat-square" alt="Nobara">
-  <img src="https://img.shields.io/badge/Debian-A81C2D?logo=debian&logoColor=white&style=flat-square" alt="Debian">
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square)
+  ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-3E8C3E?logo=linux-mint&logoColor=white&style=flat-square)
+  ![Fedora](https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white&style=flat-square)
+  ![Nobara](https://img.shields.io/badge/Nobara-000000?logo=nobara&logoColor=white&style=flat-square)
+  ![Debian](https://img.shields.io/badge/Debian-A81C2D?logo=debian&logoColor=white&style=flat-square)
 </div>
 
 ### 🌟 Especialidades
